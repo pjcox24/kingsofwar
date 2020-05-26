@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelInputPractice", "ExcelInputPractice.vbproj", "{DECED3D4-FD86-4F51-BD6E-D51404BF7C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECED3D4-FD86-4F51-BD6E-D51404BF7C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECED3D4-FD86-4F51-BD6E-D51404BF7C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECED3D4-FD86-4F51-BD6E-D51404BF7C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECED3D4-FD86-4F51-BD6E-D51404BF7C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9AB2D1-AE0B-4453-B0B9-B704C7FA7C0E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\bin\Debug\InheritancePractice.exe.config
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\bin\Debug\InheritancePractice.exe
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\bin\Debug\InheritancePractice.pdb
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\bin\Debug\InheritancePractice.xml
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\ExcelInputPractice.vbprojAssemblyReference.cache
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\InheritancePractice.Resources.resources
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\ExcelInputPractice.vbproj.GenerateResource.cache
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\ExcelInputPractice.vbproj.CoreCompileInputs.cache
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\InheritancePractice.exe
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\InheritancePractice.xml
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\InheritancePractice.pdb
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\InheritancePractice.ListEditorForm.resources
+C:\Users\PhilipCox\source\repos\ExcelInputPractice\obj\Debug\ExcelInputPractice.vbproj.ResolveComReference.cache
